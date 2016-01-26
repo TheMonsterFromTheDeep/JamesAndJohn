@@ -1,7 +1,7 @@
 # JamesAndJohn
 
 This is a very simple Java program, that, when run, will generate sentences such as [this one](https://en.wikipedia.org/wiki/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher)
-using a recursive algorithm. The sentences that are generating are definitely grammatically correct.
+using a recursive algorithm. The sentences that are generated are definitely grammatically correct.
 
 It is questionable about whether they are semantically correct, but they should be by a simple argument:
 The first iteration will create the sentence in the Wikipedia article, which is unarguably semantically correct.
